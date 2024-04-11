@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/CRWvV-s4)
 ## Rabbitmq основные понятия
 **RabbitMQ** — это открытое программное обеспечение для посредничества сообщений (message broker) в системах распределенной обработки сообщений. RabbitMQ реализует протокол AMQP (Advanced Message Queuing Protocol) и предоставляет надежную, гибкую и масштабируемую платформу для отправки, получения и обработки сообщений между различными компонентами приложений.
 <details>
